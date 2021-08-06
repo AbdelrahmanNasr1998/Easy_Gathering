@@ -16,5 +16,9 @@ The Answer Is Here Just Run Easy_Ghthering Script, Give It Url And Leave It Work
 git clone https://github.com/AbdelrahmanNasr1998/easy_gathering.git
 ```
 ```
+cd easy_gathering
+```
+```
 sudo python3 easy_gathering.py -u <url>
 ```
+![alt text](https://github.com/AbdelrahmanNasr1998/easy_gathering/blob/main/easy_gathering.png)
