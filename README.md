@@ -1,6 +1,6 @@
-# easy_gathering
+# Easy Gathering
 You Are Lazy And You Wanna Something Easy To Check Url ? <br>
-The Answer Is Here Just Run Easy_ghthering Script, Give It Url And Leave It Works.
+The Answer Is Here Just Run Easy_Ghthering Script, Give It Url And Leave It Works.
 # Tools Supported
 - nmap
 - nikto
